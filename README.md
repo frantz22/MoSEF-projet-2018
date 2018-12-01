@@ -29,7 +29,7 @@ J'ai rebasculé sur la branche master grâce à un git checkout master et par un
 J'ai par la suite effectué un git pull puis un git push origin master afin de pousser vers le repos distant toutes les modifications efectuées en local
 
 # Question 9
-J'ai enfin supprimé le fichie Consignes.md grâce à un rm -rf Consignes.md
+J'ai enfin supprimé le fichier Consignes.md grâce à un rm -rf Consignes.md
 
 # Question 10
 j'ai poussé toutes ces modifications grâce à un git push origin master et cela marquait la fin du projet et des Questions demandées
