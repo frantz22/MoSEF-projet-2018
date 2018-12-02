@@ -1,0 +1,30 @@
+# Question 1
+Dans un premier temps j'ai forké le Document envoyé par le professeur grace à un clic bouton fork
+Cela m'a permis d'obtenir le chemin pour un clonage.
+
+# Question2
+Dansun econd temps grâce à un git clone j'ia pu cloné le document du professeur.
+
+# Question3
+J'ai par la suite créer un dossier vim nommé Fich_semaine_dernière.sh; j'ai écis un programmequi me permet de demander à l'utilisateur de rentrer son chemin puis de dire bonjour à l'utilisateur et lui donner la date
+ 
+# Question4
+J'ai fait un git add quim'a permis de pousser mon fichier du working space jusqu'au Stagged area et après grace à un git commit -m j'ai poussé le fichier du stagged aera au Repository
+
+# Question5
+J'ai poussé toutes mes modifications grace à un git push origin master
+
+# Question6
+J'ai créé une nouvelle branche grâce à un git branch master2
+
+# Question7
+J'ai pu meplacer sur cette branche grâce à un git checkout master2
+
+# Question8
+J'ai pu modifié mon fichier vim afin qu'il puisse afficher la liste des fichiers modifiés les 7 derniers jours
+
+# Question9
+J'ai poussé toutes les modifications grace à un git push origin master. J'ai effectué un pull request puisun git merge afin de fusionner les 2 branches
+
+# Question 10
+ J'ai par la suite supprimé le fichier consigne en local grâce à un rm -rf Consignes.md et j'ai poussé les modifications grâce à un git push origin
